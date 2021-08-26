@@ -5,8 +5,19 @@
 	<div id="container">
 		{{ partial "header.html" . }}
 
-		{{- block "main" . }}{{- end }}
-		
+		<div id="content">
+			<div id="photoRotate">
+				<div id="photoHolder" style="padding:0px;margin:0px;">
+					{{ range .Params.bannerPhotos }}
+					<img src="{{ .image }}" alt="{{ .caption }}">
+					{{ end }}
+				</div>
+			</div>
+			<div id="main-front">
+				{{ .Content }}
+			</div>
+		</div>
+
 		{{ partial "footer.html" . }}
 	</div>
 </body>
