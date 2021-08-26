@@ -1,0 +1,21 @@
+{{ partial "layouts/index.html" . }}
+
+{{ define "main" }}
+<div id="content">
+    <div id="photoRotate">
+        <div id="photoHolder" style="padding:0px;margin:0px;">
+            <img src="/images/banner_ceilingfan.png"
+                alt="<h3>Timber Frames</h2> Custom hand-crafted with time honored skill and care. Naturally beautiful with strength and substance." />
+            <img src="/images/trimbur_banner.jpeg"
+                alt="<h3>TrimBür Frames</h3> Traditional timber frames crafted as finished carpentry to accommodate any existing conventional structure." />
+            <img src="/images/struc_arch_banner.jpeg"
+                alt="<h3>Structural & Architectural Components</h3> Crafted to provide stability, support, detail and refinement." />
+        </div>
+    </div>
+    <div id="main-front">
+        <h2>Welcome!</h2>
+        {{ .Content }}
+    </div>
+</div>
+
+{{ end }}
