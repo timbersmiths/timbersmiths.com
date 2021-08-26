@@ -25,11 +25,11 @@ h2 {
 }
 #container {
   width: 1024px;
-  height: 1656px;
   background: url(/images/background.jpeg) no-repeat top left;
   text-align: left;
   margin: 0px auto;
   color: #ffffff;
+  margin-bottom: 60px;
 }
 #header {
   width: 1024px;
