@@ -10,8 +10,28 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/home
-  label: Home
+  path: content/timberframes
+  label: Timberframes
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/services
+  label: Services
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/products
+  label: Products
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/gallery
+  label: Gallery
+  create: all
+  match: "**/*"
+- type: directory
+  path: content/contact
+  label: Contact
   create: all
   match: "**/*"
 - type: directory
