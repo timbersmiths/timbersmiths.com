@@ -2,11 +2,11 @@
 title: "Timbersmiths: Products"
 layout: sidephotopage
 sidePhotos:
-    - image: "/products/images/IMG_8175-web.jpeg"
+    - image: "/uploads/IMG_8175-web.jpeg"
       caption: ""
-    - image: "/products/images/IMG_8254-web.jpeg"
+    - image: "/uploads/IMG_8254-web.jpeg"
       caption: ""
-    - image: "/products/images/IMG_8025-web.jpeg"
+    - image: "/uploads/IMG_8025-web.jpeg"
       caption: ""
 ---
 ## Structural & Architectural Components

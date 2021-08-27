@@ -2,11 +2,11 @@
 title: "Timbersmiths: Virginia Timberframing"
 layout: sidephotopage
 sidePhotos:
-    - image: "/about-us/images/164-thumb.jpeg"
+    - image: "/uploads/164-thumb.jpeg"
       caption: ""
-    - image: "/about-us/images/198-thumb.jpeg"
+    - image: "/uploads/198-thumb.jpeg"
       caption: ""
-    - image: "/about-us/images/IMG_8254-thumb.jpeg"
+    - image: "/uploads/IMG_8254-thumb.jpeg"
       caption: ""
 ---
 ## Mission Statements

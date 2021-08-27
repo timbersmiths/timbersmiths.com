@@ -2,11 +2,11 @@
 title: "Timbersmiths: Timberframing"
 layout: sidephotopage
 sidePhotos:
-    - image: "/products/images/051-web.jpeg"
+    - image: "/uploads/051-web.jpeg"
       caption: ""
-    - image: "/products/images/IMG_8336-web.jpeg"
+    - image: "/uploads/IMG_8336-web.jpeg"
       caption: ""
-    - image: "/products/images/IMG_8206-web.jpeg"
+    - image: "/uploads/IMG_8206-web.jpeg"
       caption: ""
 ---
 ## Timber Frames

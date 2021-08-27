@@ -1,0 +1,21 @@
+<html>
+{{ partial "head.html" . }}
+
+<body>
+    <div id="container">
+        {{ partial "header.html" . }}
+
+        <div>
+            <div id="main" style="width:950px; text-align: center; margin: 0 auto;">
+                <div style="text-align:center;">
+                    <img src="{{ .Params.photo }}" style="width:900px;">
+                    {{ .Content }}
+                </div>
+            </div>
+        </div>
+
+        {{ partial "footer.html" . }}
+    </div>
+</body>
+
+</html>
