@@ -1,5 +1,5 @@
 ---
-title: "Timbersmiths: Services"
+title: "Services"
 layout: sidephotopage
 sidePhotos:
     - image: "/uploads/270-thumb.jpeg"

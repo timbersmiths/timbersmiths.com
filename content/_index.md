@@ -1,5 +1,5 @@
 ---
-title: "Timbersmiths: Virginia Timberframing"
+title: "Timbersmiths: Virginia Timber Framing"
 layout: index
 bannerPhotos:
     - image: "/images/banner_ceilingfan.png"

@@ -1,5 +1,5 @@
 ---
-title: "Timbersmiths: Virginia Timberframing"
+title: "About Us"
 layout: sidephotopage
 sidePhotos:
     - image: "/uploads/164-thumb.jpeg"

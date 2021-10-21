@@ -1,5 +1,5 @@
 ---
-title: "Timbersmiths: Timberframing"
+title: "Timber Frames"
 layout: sidephotopage
 sidePhotos:
     - image: "/uploads/051-web.jpeg"

@@ -1,5 +1,5 @@
 ---
-title: "Timbersmiths: Products"
+title: "Products"
 layout: sidephotopage
 sidePhotos:
     - image: "/uploads/IMG_8175-web.jpeg"

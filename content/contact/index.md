@@ -1,5 +1,5 @@
 ---
-title: "Timbersmiths: Contact"
+title: "Contact"
 layout: contact
 photo: "/uploads/270-web.jpeg"
 ---

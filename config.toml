@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://timbersmiths.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Timbersmiths Virginia Timber Framing'
 theme = 'timbersmiths-theme'

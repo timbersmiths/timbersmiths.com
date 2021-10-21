@@ -1,5 +1,5 @@
 ---
-title: "Timbersmiths: Gallery"
+title: "Gallery"
 layout: gallery
 instructionsDummyParam: >
   The image names below should be uploaded 3 times in different sizes:
